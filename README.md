@@ -24,7 +24,7 @@ See below for a list of all changes that i made.
 <!-- image place holder -->
 [./assets/images/screenshot.jpg]
 ## Link to Finihed Site
-
+[https://ajurgs.github.io/Horiseon-Website/]
 
 
 ## Credits
