@@ -10,21 +10,22 @@ See below for a list of all changes that i made.
 
 - set title to "Horiseon Marketing"
 - added an id tag to the search-engine-optimization div
-- changed the <div class="header"> to a <header>
-- changed the <div class="footer"> to a <footer>
-- changed the <div> in the header to a <nav>
-- fixed the css to account for the change to <nav>
+- changed the div class="header" to a header element
+- changed the div class="footer" to a footer element
+- changed the div in the header to a nav element
+- fixed the css to account for the change to nav
 - added alt tag to all image items
 - reordered the css elements to group like elementes togeather
-- set the <div class="content"> to a <main>
-- set the <div class="benifits"> to a <aside>
+- set the div class="content" to a main element
+- set the div class="benifits" to a aside element
+- set the div's in the main and aside elements to section elements
 
 
 ## Screen Shot
 <!-- image place holder -->
 [./assets/images/screenshot.jpg]
 ## Link to Finihed Site
-[https://ajurgs.github.io/Horiseon-Website/]
+[https://ajurgs.github.io/Horiseon-Website-Refactor/]
 
 
 ## Credits
