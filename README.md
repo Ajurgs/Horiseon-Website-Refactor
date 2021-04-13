@@ -17,10 +17,13 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - set title to "Horiseon Marketing"
 - added an id tag to the search-engine-optimization div
-- changed the onine reputatation mangaement class to float left
 - changed the <div class="header"> to a <header>
 - changed the <div class="footer"> to a <footer>
 - changed the <div> in the header to a <nav>
 - fixed the css to account for the change to <nav>
+- added alt tag to all image items
+- reordered the css elements to group like elementes togeather
+- set the <div class="content"> to a <main>
+- set the <div class="benifits"> to a <aside>
 
 ## Link to Finihed Site
