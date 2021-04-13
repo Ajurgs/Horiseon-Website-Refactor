@@ -6,13 +6,6 @@ This Assignment was to refactor an existing website to make it more accesible.
 This was done by chaning the existing div elements to semantic elements and adding alt tags as needed
 See below for a list of all changes that i made.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## List of Changes
 
 - set title to "Horiseon Marketing"
@@ -26,4 +19,13 @@ Provide a short description explaining the what, why, and how of your project. U
 - set the <div class="content"> to a <main>
 - set the <div class="benifits"> to a <aside>
 
+
+## Screen Shot
+<!-- image place holder -->
+[./assets/images/screenshot.jpg]
 ## Link to Finihed Site
+
+
+
+## Credits
+worked on the assignemt with TJ Courey and Zach Raab in a study group
