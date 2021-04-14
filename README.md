@@ -19,7 +19,7 @@ See below for a list of all changes that i made.
 - set the div class="content" to a main element
 - set the div class="benifits" to a aside element
 - set the div's in the main and aside elements to section elements
-
+- consolidated duplicate css stylings
 
 ## Screen Shot
 <!-- image place holder -->
