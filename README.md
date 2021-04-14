@@ -23,9 +23,9 @@ See below for a list of all changes that i made.
 
 ## Screen Shot
 <!-- image place holder -->
-.\assets\images\Screenshot1.png
-.\assets\images\Screenshot2.png
-.\assets\images\Screenshot3.png
+[.\assets\images\Screenshot1.png]
+[.\assets\images\Screenshot2.png]
+[.\assets\images\Screenshot3.png]
 
 ## Link to Finihed Site
 [https://ajurgs.github.io/Horiseon-Website-Refactor/]
